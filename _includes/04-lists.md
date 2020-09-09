@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* MST 3K
+* The Boys
+* The Sopranos
+   * Season 4
+   * Season 7
